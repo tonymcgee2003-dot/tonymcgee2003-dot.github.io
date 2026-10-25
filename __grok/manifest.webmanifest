@@ -1,0 +1,26 @@
+{
+  "name": "倉衡",
+  "short_name": "倉衡",
+  "description": "富途結單合併持倉（本機 PDF 解析，可離線）",
+  "id": "/",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101418",
+  "theme_color": "#101418",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "./__grok/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
