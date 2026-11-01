@@ -1,5 +1,5 @@
 /* 倉衡 offline service worker — app-shell cache */
-const CACHE = "cangheng-shell-v4";
+const CACHE = "cangheng-shell-v5";
 const PRECACHE = [
   "./__grok/icon-180.png",
   "./__grok/install/assets/homescreen/glass-puzzle.svg",
@@ -11,8 +11,8 @@ const PRECACHE = [
   "./__grok/install/styles.css",
   "./__grok/manifest.webmanifest",
   "./_shell.html",
-  "./assets/dashboard-CoKsOPAF.js",
-  "./assets/index-V2GKMxzu.js",
+  "./assets/dashboard-CeOVVFIL.js",
+  "./assets/index-DJLJqbdM.js",
   "./assets/newsreader-latin-500-normal-B66TYsaK.woff2",
   "./assets/newsreader-latin-500-normal-DFwuUcdu.woff",
   "./assets/newsreader-latin-600-normal-30OJ_TG_.woff2",
@@ -23,10 +23,10 @@ const PRECACHE = [
   "./assets/outfit-latin-500-normal-DKnIMDSk.woff2",
   "./assets/outfit-latin-600-normal-B7SfZ07L.woff2",
   "./assets/outfit-latin-600-normal-BEfTtDA7.woff",
-  "./assets/pdf-0UmSwLsB.js",
+  "./assets/pdf-_ZI5E_nt.js",
   "./assets/pdf.worker.min--Ao2iAXA.js",
   "./assets/pdf.worker.min-CjEcRF4W.mjs",
-  "./assets/routes-B13IuCOY.js",
+  "./assets/routes-BkOpGYU_.js",
   "./assets/styles-jg5_5KzB.css",
   "./favicon.svg",
   "./index.html",
